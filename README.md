@@ -3,15 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub Profile</title>
-</head>
+   </head>
 <body>
 
-<h1>Hi there 👋</h1>
-
-<!--
-**Leandro-Carta/leandro-carta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<h1 style= color:blue; font-size:15px;>Hi i am Leandro Carta</h1>
 
 <h2>About Me</h2>
 
