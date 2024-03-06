@@ -10,12 +10,7 @@
 
 <h2> Bienvenido a mi rincón en GitHub </h2>
 
-<h3> tecnologias que manejo</h3>
 
-<p>  
-- Desarrollo Web: HTML, CSS, JavaScript.
-- Lenguajes de Programación: [javascript , java].
-</p>
 
 </body>
 </html>
