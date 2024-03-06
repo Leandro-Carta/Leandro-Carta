@@ -6,7 +6,7 @@
    </head>
 <body>
 
-<h1 style= color:blue; font-size:15px;>Hi i am Leandro Carta</h1>
+<h1 style= "color:blue; font-size:15px;">Hi i am Leandro Carta</h1>
 
 <h2>About Me</h2>
 
