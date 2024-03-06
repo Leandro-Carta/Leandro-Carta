@@ -8,7 +8,7 @@
 
 <h1 style= "font-size:17px;">Hi i am Leandro Carta</h1>
 
-<h2Bienvenido a mi rincón en GitHub</h2>
+<h2> Bienvenido a mi rincón en GitHub </h2>
 
 <h3> tecnologias que manejo</h3>
 
